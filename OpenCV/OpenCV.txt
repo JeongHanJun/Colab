@@ -1,0 +1,7 @@
+OpenCv - Realtime Computer Vision Programming Library
+
+Object Detection - HandTrakcing
+			- 손바닥을 웹캠으로 찍을때, 손가락 마디단위로 인식하여 이를 출력할 수 있다.
+			- 실시간으로 이를 연동 가능해야한다.
+			- 마디 단위로 이를 인식해서 웹캠 위에 출력한다.
+			- 손등을 찍을때도 같은 출력 결과가 나와야 한다.
